@@ -1,0 +1,6 @@
+TEMP                          |ONLINE  |TEMP    |          20|          20|           0|   0.00
+UNDOTBS2                      |ONLINE  |UNDO    |          25|          22|           3|  10.75
+UNDOTBS1                      |ONLINE  |UNDO    |          60|          52|           8|  13.85
+USERS                         |ONLINE  |DATA    |           5|           4|           1|  26.25
+SYSAUX                        |ONLINE  |DATA    |         520|          28|         492|  94.64
+SYSTEM                        |ONLINE  |DATA    |         750|           7|         743|  99.09

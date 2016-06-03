@@ -1,0 +1,2 @@
+ORA-00313|9|00313, 00000, "open failed for members of log group %s of thread %s"
+ORA-1109|1|01109, 00000, "database not open"

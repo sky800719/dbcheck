@@ -1,0 +1,22 @@
+ora.DATADG.dg                           |ONLINE    |ONLINE on rac11g1 
+ora.GRIDDG.dg                           |ONLINE    |ONLINE on rac11g1 
+ora.LISTENER.lsnr                       |ONLINE    |ONLINE on rac11g1 
+ora.LISTENER_SCAN1.lsnr                 |ONLINE    |ONLINE on rac11g1 
+ora.acct.db                             |ONLINE    |ONLINE on rac11g1 
+ora.asm                                 |ONLINE    |ONLINE on rac11g1 
+ora.cvu                                 |ONLINE    |ONLINE on rac11g2 
+ora.gsd                                 |OFFLINE   |OFFLINE           
+ora.net1.network                        |ONLINE    |ONLINE on rac11g1 
+ora.oc4j                                |ONLINE    |ONLINE on rac11g2 
+ora.ons                                 |ONLINE    |ONLINE on rac11g1 
+ora.rac11g1.ASM1.asm                    |ONLINE    |ONLINE on rac11g1 
+ora.rac11g1.LISTENER_RAC11G1.lsnr       |ONLINE    |ONLINE on rac11g1 
+ora.rac11g1.gsd                         |OFFLINE   |OFFLINE           
+ora.rac11g1.ons                         |ONLINE    |ONLINE on rac11g1 
+ora.rac11g1.vip                         |ONLINE    |ONLINE on rac11g1 
+ora.rac11g2.ASM2.asm                    |ONLINE    |ONLINE on rac11g2 
+ora.rac11g2.LISTENER_RAC11G2.lsnr       |ONLINE    |ONLINE on rac11g2 
+ora.rac11g2.gsd                         |OFFLINE   |OFFLINE           
+ora.rac11g2.ons                         |OFFLINE   |OFFLINE           
+ora.rac11g2.vip                         |ONLINE    |ONLINE on rac11g2 
+ora.scan1.vip                           |ONLINE    |ONLINE on rac11g1 

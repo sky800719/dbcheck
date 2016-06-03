@@ -1,0 +1,2 @@
+GRIDDG                        |MOUNTED               |EXTERN    |       1,024|         628|         396|         628|  38.67
+DATADG                        |CONNECTED             |EXTERN    |       5,120|       3,298|       1,822|       3,298|  35.59

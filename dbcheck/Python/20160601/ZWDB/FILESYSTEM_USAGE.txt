@@ -1,0 +1,9 @@
+HOSTNAME|rac11g1
+/dev/mapper/vg_rac11g1-lv_root|26589|15314|9902|61%|/
+tmpfs|1976|708|1268|36%|/dev/shm
+/dev/sda1|476|64|382|15%|/boot
+
+HOSTNAME|rac11g2
+/dev/mapper/vg_rac11g2-lv_root|26589|17069|8147|68%|/
+tmpfs|1976|651|1325|33%|/dev/shm
+/dev/sda1|476|64|382|15%|/boot
